@@ -1,1 +1,5 @@
 this is a pharo project, working on using git (and github) as a repository for Monticello.
+
+MCGitRepository
+    repository: 'monticello'
+    user: ''
